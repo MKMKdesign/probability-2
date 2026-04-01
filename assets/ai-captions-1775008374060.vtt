@@ -1,0 +1,161 @@
+WEBVTT
+
+0
+00:00:03.190 --> 00:00:04.969
+What's the chance of rolling snake eyes?
+
+1
+00:00:05.769 --> 00:00:08.539
+What's the chance of flipping heads 3 times in a row?
+
+2
+00:00:09.460 --> 00:00:13.000
+When calculating the probability of 2 or more events happening together,
+
+3
+00:00:13.460 --> 00:00:15.819
+we can use the multiplication rule of probability.
+
+4
+00:00:16.719 --> 00:00:19.510
+We'll start with independent events where one event's outcome
+
+5
+00:00:19.510 --> 00:00:21.860
+has no effect on the other event's outcome.
+
+6
+00:00:22.469 --> 00:00:23.389
+For example,
+
+7
+00:00:23.719 --> 00:00:26.149
+what's the probability of rolling snake eyes?
+
+8
+00:00:26.479 --> 00:00:28.379
+Each roll is an independent event
+
+9
+00:00:28.680 --> 00:00:32.720
+because the value on one die has no influence on the value of the second die.
+
+10
+00:00:34.299 --> 00:00:38.049
+The multiplication rule of probability says that the probability of two events,
+
+11
+00:00:38.099 --> 00:00:38.659
+A and B,
+
+12
+00:00:38.740 --> 00:00:39.720
+happening together
+
+13
+00:00:40.020 --> 00:00:41.819
+is the probability of event A
+
+14
+00:00:42.020 --> 00:00:42.799
+multiplied
+
+15
+00:00:42.909 --> 00:00:44.979
+by the probability of event B.
+
+16
+00:00:45.180 --> 00:00:45.799
+In this case,
+
+17
+00:00:46.299 --> 00:00:48.740
+the probability of rolling a 1 on the first die
+
+18
+00:00:48.950 --> 00:00:52.099
+multiplied by the probability of rolling a 1 on the second die.
+
+19
+00:00:52.900 --> 00:00:55.049
+This is the case if you're rolling the dice together
+
+20
+00:00:55.380 --> 00:00:56.840
+or one at a time.
+
+21
+00:00:57.220 --> 00:00:59.619
+The probability of rolling a 1 on a die
+
+22
+00:00:59.860 --> 00:01:01.119
+is 1 out of 6,
+
+23
+00:01:01.369 --> 00:01:03.779
+so the probability of rolling a 1 on both dice
+
+24
+00:01:03.979 --> 00:01:06.339
+is 1/6 times 1/6
+
+25
+00:01:06.660 --> 00:01:07.120
+or
+
+26
+00:01:07.330 --> 00:01:08.739
+1 out of 36.
+
+27
+00:01:09.550 --> 00:01:12.459
+Across all 36 possible rolls of 2 dice,
+
+28
+00:01:12.839 --> 00:01:13.379
+one of them
+
+29
+00:01:13.639 --> 00:01:14.500
+is snake eyes.
+
+30
+00:01:15.809 --> 00:01:17.260
+Let's look at a second example.
+
+31
+00:01:17.529 --> 00:01:20.529
+What's the probability of flipping heads 3 times in a row?
+
+32
+00:01:20.889 --> 00:01:21.360
+Well,
+
+33
+00:01:21.650 --> 00:01:24.269
+it's the probability of the first flip landing heads
+
+34
+00:01:24.529 --> 00:01:25.309
+multiplied
+
+35
+00:01:25.569 --> 00:01:28.029
+by the probability of the 2nd flip landing heads
+
+36
+00:01:28.239 --> 00:01:28.949
+multiplied
+
+37
+00:01:29.050 --> 00:01:31.750
+by the probability of the 3rd flip landing heads.
+
+38
+00:01:32.129 --> 00:01:34.809
+1/2 times 1/2 x 1/22,
+
+39
+00:01:35.370 --> 00:01:36.089
+1/8.
